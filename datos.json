@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "UX/UI Tap In",
+    "categoria": "Interfaz para app de pedidos en campus",
+    "imagen": "img/fotocelulartapin.png"
+  },
+  {
+    "nombre": "Branding Mido",
+    "categoria": "Identidad: logo, paleta y RRSS",
+    "imagen": "img/271shots_so.png"
+  },
+  {
+    "nombre": "UX/UI Mido",
+    "categoria": "Domótica: control de hogar desde el móvil",
+    "imagen": "img/fotomido.png"
+  },
+  {
+    "nombre": "Folleto Coltauco",
+    "categoria": "Prevención de desastres para comunidad local",
+    "imagen": "img/151shots_so.png"
+  },
+  {
+    "nombre": "Museos en Vitacura",
+    "categoria": "Identidad para red de museos",
+    "imagen": "img/Tote_Bag_Mano_2-removebg-preview.png"
+  },
+  {
+    "nombre": "Gráficas Columna Deportiva",
+    "categoria": "Premier League para Instagram",
+    "imagen": "img/491shots_so.png"
+  }
+]
