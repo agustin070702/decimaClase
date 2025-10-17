@@ -1,32 +1,38 @@
 [
-  {
-    "nombre": "UX/UI Tap In",
-    "categoria": "Interfaz para app de pedidos en campus",
-    "imagen": "img/fotocelulartapin.png"
-  },
-  {
-    "nombre": "Branding Mido",
-    "categoria": "Identidad: logo, paleta y RRSS",
-    "imagen": "img/271shots_so.png"
-  },
-  {
-    "nombre": "UX/UI Mido",
-    "categoria": "Domótica: control de hogar desde el móvil",
-    "imagen": "img/fotomido.png"
-  },
-  {
-    "nombre": "Folleto Coltauco",
-    "categoria": "Prevención de desastres para comunidad local",
-    "imagen": "img/151shots_so.png"
-  },
-  {
-    "nombre": "Museos en Vitacura",
-    "categoria": "Identidad para red de museos",
-    "imagen": "img/Tote_Bag_Mano_2-removebg-preview.png"
-  },
-  {
-    "nombre": "Gráficas Columna Deportiva",
-    "categoria": "Premier League para Instagram",
-    "imagen": "img/491shots_so.png"
-  }
+    {
+        "titulo": "UX/UI Tap In",
+        "categoria": "Interfaz para app de pedidos en campus",
+        "imagen": "fotocelulartapin",
+        "alt": "UX/UI"
+    },
+    {
+        "titulo": "Premier League para Instagram",
+        "categoria": "Gráficas Columna Deportiva",
+        "imagen": "491shots_so",
+        "alt": "Gráfico"
+    },
+    {
+        "titulo": "Branding Mido",
+        "categoria": "Identidad: logo, paleta y RRSS",
+        "imagen": "271shots_so",
+        "alt": "Branding"
+    },
+    {
+        "titulo": "Folleto Coltauco",
+        "categoria": "Prevención de desastres para comunidad local",
+        "imagen": "151shots_so",
+        "alt": "Gráfico"
+    },
+    {
+        "titulo": "Domótica: control de hogar desde el móvil",
+        "categoria": "UX/UI Mido",
+        "imagen": "fotomido",
+        "alt": "UX/UI"
+    },
+    {
+        "titulo": "Museos en Vitacura",
+        "categoria": "Identidad para red de museos",
+        "imagen": "Tote_Bag_Mano_2-removebg-preview",
+        "alt":"Gráfico"
+}
 ]
