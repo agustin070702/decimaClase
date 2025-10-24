@@ -3,7 +3,8 @@ const portfolio = document.querySelector("#holahola");
 async function datos(raw) {
     try {
         let consulta = await fetch(raw);
-        let trabajos = await consulta.json();
+        let resultado = await consulta.json();
+        let trabajos = resultado.data;
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
             portfolio.innerHTML += `
@@ -29,4 +30,5 @@ async function datos(raw) {
         console.error("Error al cargar los datos:",error);
 }
 }
-datos("https://raw.githubusercontent.com/agustin070702/decimaClase/refs/heads/main/datos.json")
+datos("https://api.myjson.online/v1/records/492fb163-7104-442b-a654-890e658d549b")
+
